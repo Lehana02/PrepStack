@@ -13,7 +13,7 @@ import "react-toastify/dist/ReactToastify.css";
 import useGetPyqs from "./hooks/useGetPyqs"
 import useGetNotes from "./hooks/useGetNotes"
 import useGetBooks from "./hooks/useGetBooks"
-import TrackProgress from "./pages/trackProgress"
+import TrackProgress from "./pages/TrackProgress"
 import { useDispatch, useSelector } from "react-redux"
 import useGetTasks from "./hooks/useGetTasks"
 import AddTask from "./pages/AddTask"
