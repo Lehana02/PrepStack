@@ -8,6 +8,11 @@ into a single, clean, and highly interactive interface.
 
 ---
 
+##  Live 
+👉 **[Visit Live Website](https://prepstack-1.onrender.com/)**
+
+---
+
 ## 🌟 Overview
 
 PrepStack eliminates the chaos of scattered notes, books, and exam materials by
@@ -135,7 +140,7 @@ Each subtopic can be marked as:
 
 - Admin-restricted uploads using PIN
 - JWT-based route protection
-- Input validation & sanitization
+- Input validation 
 - Strict file type control (PDF only)
 
 ---
